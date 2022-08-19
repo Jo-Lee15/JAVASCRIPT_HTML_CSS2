@@ -1,7 +1,7 @@
 // create the days of week array
 var days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
 
-// define types of weather
+// define the types of weather
 var weather = ["Sunny", "Partly Sunny", "Partly Cloudy", "Cloudy", "Raining", "Snowing", "Thunderstorm", "Foggy"];
 
 // set min and max temps
